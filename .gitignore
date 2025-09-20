@@ -1,0 +1,86 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+.conda/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm / VS Code settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+coverage.xml
+*.prof
+*.dat
+*.tmp
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Jupyter Notebook hidden checkpoints
+.ipynb_checkpoints/
+
+# Dataset / large files (optional, if not needed in repo)
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+
+# Model files (optional)
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.onnx
+
+# Python dotenv environment variables
+.env
+*.env
